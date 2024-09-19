@@ -10,15 +10,15 @@ Fixed-Point (0 Decimals): Token balance does not have fractional units.
 Redeemable: Users can exchange tokens for food items at fixed prices.
 ## Getting Started
 ### Executing program
-1.Open Remix IDE at Remix.ethereum.org.
-2.Create a new file and paste your DegenToken Solidity contract code.
-3.Ensure that the code is free of any syntax or compilation errors by compiling it in Remix.
-4.Install the MetaMask browser extension if you haven't already.
-5.Open MetaMask and either create a new wallet or import an existing one.
-6.Add a test network, such as Avalanche Fuji Testnet, to your MetaMask.
-7.In Remix, go to the Deploy & Run Transactions tab.
-8.In the environment dropdown, select Injected Web3, which connects Remix to your MetaMask account.
-9.MetaMask will automatically prompt you to connect with the chosen network and account.
+1. Open Remix IDE at Remix.ethereum.org.
+2. Create a new file and paste your DegenToken Solidity contract code.
+3. Ensure that the code is free of any syntax or compilation errors by compiling it in Remix.
+4. Install the MetaMask browser extension if you haven't already.
+5. Open MetaMask and either create a new wallet or import an existing one.
+6. Add a test network, such as Avalanche Fuji Testnet, to your MetaMask.
+7. In Remix, go to the Deploy & Run Transactions tab.
+8. In the environment dropdown, select Injected Web3, which connects Remix to your MetaMask account.
+9. MetaMask will automatically prompt you to connect with the chosen network and account.
 10. And hence after adding the address click to deploy and now you can use snowtrace.testnet to check your further transactions.
 ## Help
 **To add the Avalanche Fuji Testnet, use the following network details:**
