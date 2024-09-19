@@ -39,5 +39,5 @@ Add your account address and hence you will get 0.1 Fuji.
 - SnowTrace.Testnet - for testing of all the transactions
 
 ## Authors
-Name -Ashish Kumar Saurav
-Email- Id - sauravashish.0000@gmail.com
+1. Name -Ashish Kumar Saurav
+2. Email- Id - sauravashish.0000@gmail.com
