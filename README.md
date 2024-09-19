@@ -8,8 +8,8 @@ Burnable: Tokens can be burned when redeemed for items.
 Transferable: Users can transfer tokens between accounts.
 Fixed-Point (0 Decimals): Token balance does not have fractional units.
 Redeemable: Users can exchange tokens for food items at fixed prices.
-
-### Steps to Run 
+## Getting Started
+### Executing program
 1.Open Remix IDE at Remix.ethereum.org.
 2.Create a new file and paste your DegenToken Solidity contract code.
 3.Ensure that the code is free of any syntax or compilation errors by compiling it in Remix.
