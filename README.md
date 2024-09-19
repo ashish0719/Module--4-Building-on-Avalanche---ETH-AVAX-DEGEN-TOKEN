@@ -32,6 +32,6 @@ Redeemable: Users can exchange tokens for food items at fixed prices.
    https://faucets.chain.link/
 ```
   
-## Author
+## Authors
 Name -Ashish Kumar Saurav
 Email- Id - sauravashish.0000@gmail.com
