@@ -29,8 +29,9 @@ Currency Symbol: AVAX
 SnowTrace URL: https://testnet.snowtrace.io/
 2. For getting the free testnet faucet you can use :
    ```
-https://faucets.chain.link/
+   https://faucets.chain.link/
 ```
+  
 ## Author
 Name -Ashish Kumar Saurav
 Email- Id - sauravashish.0000@gmail.com
