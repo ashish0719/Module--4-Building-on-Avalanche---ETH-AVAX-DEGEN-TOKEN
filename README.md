@@ -21,15 +21,16 @@ Redeemable: Users can exchange tokens for food items at fixed prices.
 9. MetaMask will automatically prompt you to connect with the chosen network and account.
 10. And hence after adding the address click to deploy and now you can use snowtrace.testnet to check your further transactions.
 ## Help
-**To add the Avalanche Fuji Testnet, use the following network details:**
+1. To add the Avalanche Fuji Testnet, use the following network details:
 Network Name: Avalanche Fuji C-Chain
 RPC URL: https://api.avax-test.network/ext/bc/C/rpc
 Chain ID: 43113
 Currency Symbol: AVAX
 SnowTrace URL: https://testnet.snowtrace.io/
-**For getting the free testnet faucet you can use :**
+2. For getting the free testnet faucet you can use :
+   ```
 https://faucets.chain.link/
-
+```
 ## Author
 Name -Ashish Kumar Saurav
 Email- Id - sauravashish.0000@gmail.com
