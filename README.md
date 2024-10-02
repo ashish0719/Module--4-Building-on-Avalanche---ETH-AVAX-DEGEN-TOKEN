@@ -1,7 +1,7 @@
 # DEGEN-TOKEN
-This DegenToken is an ERC20 token built on the Ethereum blockchain. And  deployed on Avalanche Fuji Testnet and tested and verified using the snowtrace.
+This contract DegenToken is an ERC20 ownable contract . And  deployed on Avalanche Fuji Testnet and tested and verified using the snowtrace.
 ## Description
-The DegenToken is an ERC20 token built on the Ethereum blockchain. This contract allows users to mint, transfer, burn, and redeem tokens in exchange for food items. The token's primary purpose is to be used for redeeming food items, which are predefined in the smart contract. The contract also supports burning tokens as users redeem them for food.
+The contract  DegenToken is an ERC20 ownable contract. This contract allows users to mint, transfer, burn, and redeem tokens in exchange for food items. The token's primary purpose is to be used for redeeming food items, which are predefined in the smart contract. The contract also supports burning tokens as users redeem them for food.
 **Features:**
 Minting: Only the owner can mint new tokens.
 Burnable: Tokens can be burned when redeemed for items.
